@@ -1,0 +1,9 @@
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\bin\Debug\netcoreapp1.1\Jenkins2Test.deps.json
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\bin\Debug\netcoreapp1.1\Jenkins2Test.runtimeconfig.json
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\bin\Debug\netcoreapp1.1\Jenkins2Test.runtimeconfig.dev.json
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\bin\Debug\netcoreapp1.1\Jenkins2Test.dll
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\bin\Debug\netcoreapp1.1\Jenkins2Test.pdb
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\obj\Debug\netcoreapp1.1\Jenkins2Test.csprojResolveAssemblyReference.cache
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\obj\Debug\netcoreapp1.1\Jenkins2Test.AssemblyInfo.cs
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\obj\Debug\netcoreapp1.1\Jenkins2Test.dll
+C:\Users\szymonmac\Desktop\GitHub repo\Jenkins2Test\Jenkins2Test\obj\Debug\netcoreapp1.1\Jenkins2Test.pdb
